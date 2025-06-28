@@ -1,0 +1,2 @@
+# config.py
+DISCORD_TOKEN = "MTM4NzUzMTMwODg3NTY0NDk0OQ.GniuOX.FJb01cLdbtyYcnsbr7tB0Lvz8RGaaIzqj5WFqY"
